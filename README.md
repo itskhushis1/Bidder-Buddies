@@ -15,3 +15,6 @@ This website will help users  sell or bid for antique products  via the Intern
 - Suryakant Patwardhan
 - Khushi Sharma
 - Siddhartha Chatterjee
+
+# PPT link
+https://www.canva.com/design/DAE4O0phfds/share/preview?token=Z_mgi0UXPwMFOJQ2RaFXNQ&role=EDITOR&utm_content=DAE4O0phfds&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
